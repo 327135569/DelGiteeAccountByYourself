@@ -1,5 +1,8 @@
 ## 介绍
-Gitee 是如此垃圾, 连自助账号删除服务都无法提供, 因此我们尝试研发一个自助的删号功能的程序. 得益于 GITEE 强大的能力, 我们发现建 600 个项目对 GITEE 来说轻而易举并不会对账号有什么影响, 看来还需要研究一下.
+Gitee 没有账号删除服务, 因此我尝试研发一个自助的删号功能的程序.
+
+![image](https://user-images.githubusercontent.com/4250419/157865109-6c08d532-1bb5-4ebf-a07b-4c1bb797faea.png)
+
 
 ## 构建
 ```
@@ -11,6 +14,6 @@ npm i
 node main.js
 ```
 
-## 截图
+## 运行截图
 
 ![capture](doc/capture.png)
